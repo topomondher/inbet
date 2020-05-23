@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="76px" height="103px" viewBox="0 0 76 103" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/Gold</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="44.868801%" id="linearGradient-1">
+            <stop stop-color="#F7D600" offset="0%"></stop>
+            <stop stop-color="#E68E00" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="14.3841912%" y1="134.62551%" x2="87.9136029%" y2="15.2449898%" id="linearGradient-2">
+            <stop stop-color="#F7D600" offset="0%"></stop>
+            <stop stop-color="#FFF0C8" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="45.0396369%" y1="38.6846128%" x2="124.537569%" y2="91.1047894%" id="linearGradient-3">
+            <stop stop-color="#F7D600" offset="0%"></stop>
+            <stop stop-color="#902F00" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="37.3046875%" y1="26.0105299%" x2="77.0191866%" y2="66.6801121%" id="linearGradient-4">
+            <stop stop-color="#F7D600" offset="0%"></stop>
+            <stop stop-color="#902F00" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="4.28538603%" y1="38.8862942%" x2="77.0191866%" y2="66.6801121%" id="linearGradient-5">
+            <stop stop-color="#F7D600" offset="0%"></stop>
+            <stop stop-color="#902F00" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="29.0841881%" y1="102.159052%" x2="100%" y2="-3.53685462%" id="linearGradient-6">
+            <stop stop-color="#F7D600" offset="0%"></stop>
+            <stop stop-color="#D09800" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Popup/Gold" transform="translate(-122.000000, -52.000000)">
+            <g id="Icon/Gold-Copy-4" transform="translate(107.000000, 50.000000)">
+                <g id="Group-2" transform="translate(13.250000, 2.229167)">
+                    <g id="Group-3">
+                        <polygon id="Polygon" fill="#CD9500" points="39.75 0 77.2916667 51.2708333 39.75 102.541667 2.20833333 51.2708333"></polygon>
+                        <polygon id="Polygon" fill="url(#linearGradient-1)" points="39.75 0 55.2083333 51.2708333 39.75 102.541667 24.2916667 51.2708333"></polygon>
+                        <polygon id="Polygon" fill="url(#linearGradient-2)" points="39.75 0 24.2916667 51.2708333 2.20833333 51.2708333"></polygon>
+                        <polygon id="Polygon" fill="url(#linearGradient-3)" transform="translate(58.520833, 25.635417) scale(-1, 1) translate(-58.520833, -25.635417) " points="77.2916667 0 61.8333333 51.2708333 39.75 51.2708333"></polygon>
+                        <polygon id="Polygon" fill="url(#linearGradient-4)" transform="translate(58.520833, 76.906250) scale(-1, -1) translate(-58.520833, -76.906250) " points="77.2916667 51.2708333 61.8333333 102.541667 39.75 102.541667"></polygon>
+                        <polygon id="Polygon" fill="url(#linearGradient-5)" transform="translate(20.979167, 76.906250) scale(1, -1) translate(-20.979167, -76.906250) " points="39.75 51.2708333 24.2916667 102.541667 2.20833333 102.541667"></polygon>
+                        <polygon id="Path-3" fill="#FFFFFF" opacity="0.417633929" points="62.772522 70.6797129 51.3351237 67.5487569 53.9720764 82.5259705"></polygon>
+                        <polygon id="Path-7" fill="#FFFFFF" opacity="0.739174107" points="49.4615987 30.2303518 52.3821411 17.8572795 60.1317952 28.6814728"></polygon>
+                        <polygon id="Path-9" fill="#FFFFFF" opacity="0.34765625" points="28.4123433 66.9441172 52.7347412 62.9413045 49.0221965 74.3276876 34.8987834 85.6063131"></polygon>
+                        <polygon id="Polygon" fill="url(#linearGradient-6)" points="39.75 0 55.2119726 51.2708333 24.2916667 51.2708333"></polygon>
+                        <polygon id="Path-5" fill="#FFFFFF" opacity="0.339285714" points="50.7825012 34.4916738 23.0453008 50.8294627 55.780365 51.2708333"></polygon>
+                        <polygon id="Path-2" fill="#F7D600" points="39.8729248 0.505589803 57.8161723 51.7769674 39.8729248 102.29894 54.2109172 51.4022649"></polygon>
+                        <polygon id="Path-4" fill="#FFFFFF" opacity="0.278627232" points="16.0368347 69.4475759 26.5679321 60.2996114 25.5591939 82.3338572"></polygon>
+                        <polygon id="Path-6" fill="#FFFFFF" opacity="0.593024554" points="32.1097921 23.6484324 26.9162191 41.8034058 7.22884115 45.7071686"></polygon>
+                        <polygon id="Path-2" fill="#FFFFFF" points="22.3954976 49.3420817 39.7138774 0.0391845703 25.6141866 49.3420817 55.2334035 51.0939585 25.6141866 52.0093536 32.6182048 77.9272257 22.3954976 52.0093536 2.20833333 51.0090586"></polygon>
+                        <polygon id="Path-3" fill="#F7D600" points="39.8346456 102.390915 77.3893865 51.0939585 39.8346456 0 74.6997325 51.0939585 55.3515434 51.0939585 74.1943525 52.7071927"></polygon>
+                        <polygon id="Path-4" fill="#FFFFFF" points="2.20833333 51.3927409 39.8222453 0 4.43526713 51.3120588 39.8222453 102.624118"></polygon>
+                        <path d="M24.2916667,69.1041667 C19.413182,69.1041667 15.4583333,65.1122178 15.4583333,60.1875 C15.4583333,65.1122178 11.5034846,69.1041667 6.625,69.1041667 C11.5034846,69.1041667 15.4583333,73.0963253 15.4583333,78.0208333 C15.4583333,73.0963253 19.413182,69.1041667 24.2916667,69.1041667" id="Fill-1" fill="#FFFFFF"></path>
+                        <path d="M72.875,24.5208333 C64.3376519,24.5208333 57.4166667,17.5349228 57.4166667,8.91666667 C57.4166667,17.5349228 50.4956814,24.5208333 41.9583333,24.5208333 C50.4956814,24.5208333 57.4166667,31.5071109 57.4166667,40.125 C57.4166667,31.5071109 64.3376519,24.5208333 72.875,24.5208333" id="Fill-1-Copy" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

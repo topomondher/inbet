@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="19" height="18" viewBox="0 0 19 18">
+    <defs>
+        <linearGradient id="a" x1="54.537%" x2="54.537%" y1="17.354%" y2="82.646%">
+            <stop offset="0%" stop-color="#FFD418"/>
+            <stop offset="100%" stop-color="#FEA90A"/>
+        </linearGradient>
+        <radialGradient id="c" cy="19.363%" r="44.943%" fx="50%" fy="19.363%" gradientTransform="matrix(0 1 -.95716 0 .685 -.306)">
+            <stop offset="0%" stop-color="#FFF"/>
+            <stop offset="100%" stop-color="#FFF" stop-opacity="0"/>
+        </radialGradient>
+        <path id="b" d="M1089.035 780.76l-3.984 1.553a1 1 0 0 1-1.362-.989l.247-4.27-2.71-3.31a1 1 0 0 1 .52-1.6l4.138-1.085 2.31-3.599a1 1 0 0 1 1.683 0l2.31 3.6 4.137 1.084a1 1 0 0 1 .52 1.6l-2.71 3.31.247 4.27a1 1 0 0 1-1.361.99l-3.985-1.555z"/>
+        <filter id="d" width="137.3%" height="139%" x="-18.7%" y="-19.5%" filterUnits="objectBoundingBox">
+            <feMorphology in="SourceAlpha" radius="1" result="shadowSpreadInner1"/>
+            <feGaussianBlur in="shadowSpreadInner1" result="shadowBlurInner1" stdDeviation="1.5"/>
+            <feOffset in="shadowBlurInner1" result="shadowOffsetInner1"/>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+            <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0.996078431 0 0 0 0 0.682352941 0 0 0 0 0.0235294118 0 0 0 1 0"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="nonzero" transform="translate(-1080 -766)">
+        <use fill="url(#a)" xlink:href="#b"/>
+        <use fill="url(#c)" style="mix-blend-mode:overlay" xlink:href="#b"/>
+        <use fill="#000" filter="url(#d)" xlink:href="#b"/>
+        <path stroke="#1D2640" d="M1089.035 781.296l-3.803 1.483a1.5 1.5 0 0 1-2.042-1.484l.235-4.075-2.586-3.158a1.5 1.5 0 0 1 .78-2.402l3.95-1.035 2.204-3.435a1.5 1.5 0 0 1 2.525 0l2.204 3.435 3.949 1.035a1.5 1.5 0 0 1 .78 2.402l-2.586 3.158.236 4.075a1.5 1.5 0 0 1-2.043 1.484l-3.803-1.483zm-5.61-4.076l.012-.195.112.346-.124-.151z"/>
+    </g>
+</svg>
