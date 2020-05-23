@@ -1,0 +1,4 @@
+User-agent: *
+Host: https://apigames.inbetgames.com
+Sitemap: https://apigames.inbetgames.com/sitemap.xml
+Disallow: /admin/
